@@ -1,21 +1,27 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Flash Chat ⚡️
 
-## Our Goal
+## About App
+This app will be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. This a modern messaging app where users can sign up and log in to chat.
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+## Video Demo of Live Chat
+https://user-images.githubusercontent.com/95682044/228064481-c0b267ca-c9ce-4e16-954a-266e6f56a3df.mp4
 
 
-## What you will create
+## Some Images of Flash Chat
+![image](https://user-images.githubusercontent.com/95682044/228063799-f6d6644d-8e31-41c2-927e-3848833ef2b2.png)
+![image](https://user-images.githubusercontent.com/95682044/228063850-5bae7735-a013-4af4-94a6-83456dd2fdbe.png)
+![image](https://user-images.githubusercontent.com/95682044/228063902-2ce4331e-e669-499d-8499-d706352e215b.png)
 
-We’re going to build a modern messaging app where users can sign up and log in to chat.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+## Dependencies and Packages Used
+  - cupertino_icons: ^0.1.2
+  - animated_text_kit: ^4.2.2
+  - firebase_core: ^1.18.0
+  - cloud_firestore: ^3.1.18
+  - firebase_auth: ^3.3.20
+  - modal_progress_hud: ^0.1.3
 
-## What you will learn
-
+## What is in this module
 - How to incorporate Firebase into your Flutter projects.
 - How to use Firebase authentication to register and sign in users.
 - How to create beautiful animations using the Flutter Hero widget.
@@ -24,9 +30,3 @@ We’re going to build a modern messaging app where users can sign up and log in
 - Learn about Streams and how they work.
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
